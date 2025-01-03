@@ -1,0 +1,47 @@
+pedir insumos manuales de todo diciembre:
+	- ventas mafe (verificar que yo lo pueda sacar)
+	- clientes sosa (verificar que yo lo pueda sacar)
+	- reporte diario brinks (ya tengo acceso)
+	- banrep cata garnica (ya tengo acceso a carpeta)
+
+
+CASH COMERCIO
+- definir los benditos controles / automatizaciones
+- citar a david 2 o 3 de enero!
+- continuar revision de proceso
+- revision de contrato
+
+controles a ejecutar lucho
+- conciliacion diaria
+- liquidacion diario (una unica tasa)
+- reintegro del efectivo (en teoria del 80%)
+
+
+
+PILOTO
+- Revisar transacciones entre 5 y 10 millones (en monedas)
+- tiempos conteo asesor de servicios (forms)
+- analisis de cuanto demora cada asesor para contar x cantidad de monedas
+- analisis de provision minima
+
+
+
+
+Estrategias de NEGOCIACION
+--- indicador del remanente (controlar los limites de provision al cajero)
+--- podriamos facturar atm por el remanente?
+--- podriamos tener un costo fijo en atm?
+--- podemos tener la programación del servicio de atm? revisarlo bien antes de llevarlo
+--- en mf vamos a tener distintos tipos de mf? los mas dispensadores los mas recaudadores (diferenciar)
+--- limitar a la tdv a que no realice provision en atm's que no es el momento (caso mf)
+--- facturar por cantidad de atms atendidos en una misma ruta
+--- o deberiamos balancear el costo fijo y el costo variable
+--- evaluar estrategias de banco republica (cambio de efectivo): el efectivo viene aumentando
+--- 
+
+
+VENTAS DE EFECTIVO
+-- modificacion automatizacion venta de efectivo (cruce con brinks, que deje un campo de observaciones que se pueda modificar. el resto no debe ser modificable)
+-- Pronostico sucursales (cada fondo deberia guardar colchon para aprovisionar 1 o dos sucursales). Entradas en los siguientes dos dias
+-- Pronostico clientes (entrada en los siguientes dos o tres dias)
+-- Tasa de comision baja. Cartagena en 23/12/2024 debió ser a tasa 7 y no tasa 4 
