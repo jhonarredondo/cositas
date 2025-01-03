@@ -1,0 +1,18 @@
+solicitud por bizagi, ellos llevan a sap
+en bizagi no se puede hacer consulta por insumos... 
+lo ideal seria consultarlo en sap
+
+los costos son variables, pese a que la negociacion con proveedor es anual!
+
+remision
+bolsa
+fajos con pega
+fajos sin pega
+
+las solicitudes se hacen en la semana del 16
+les llega entre 5 a 10 dias, dependiendo de la ubicacion de la sucursal
+
+
+
+Paola Andrea zapata - insumos de suc (bolsas de moneda que se realizan en fechas especificas)
+Sandra Cecilia Ramirez o Luis felipe angel - montan solicitud en bizagi, y ellos hacen la solicitud del pedido
